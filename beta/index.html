@@ -668,8 +668,8 @@
               poster="/brag-poster.jpg"
               aria-label="Everpaper product tour showing the Daybook, meeting transcription, and private recall on macOS"
             >
-              <source src="/brag-play.mp4" type="video/mp4" />
-              <a href="/brag-play.mp4">Watch the Everpaper product tour</a>
+              <source src="/beta/everpaper-private-beta.mp4" type="video/mp4" />
+              <a href="/beta/everpaper-private-beta.mp4">Watch the Everpaper product tour</a>
             </video>
           </div>
           <figcaption class="film-caption">
@@ -719,7 +719,6 @@
         const film = document.querySelector("#product-film");
         const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
         const productStart = 4.8;
-        const productEnd = 19;
 
         const startFilm = () => {
           film.currentTime = productStart;
@@ -736,12 +735,6 @@
         if (film.readyState >= 1) startFilm();
         else film.addEventListener("loadedmetadata", startFilm, { once: true });
 
-        film.addEventListener("timeupdate", () => {
-          if (!film.paused && film.currentTime >= productEnd) {
-            film.currentTime = productStart;
-            film.play().catch(() => {});
-          }
-        });
 
         const form = document.querySelector("#beta-application");
         const email = document.querySelector("#beta-email");
