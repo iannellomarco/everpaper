@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/scene.f5Peh0Oo.js","_astro/seed.Denafi-7.js","_astro/motion.VUqqeMBG.js"])))=>i.map(i=>d[i]);
+import{m as e}from"./motion.VUqqeMBG.js";import{t}from"./preload-helper.oCYlU9a4.js";e(`mac`,()=>t(()=>import(`./scene.f5Peh0Oo.js`),__vite__mapDeps([0,1,2])));
