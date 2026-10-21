@@ -1,0 +1,51 @@
+# Everpaper
+
+> Everpaper is a private memory of your workdays and meetings that runs on your Mac. It keeps a searchable history of what was on your screen and what was said in your calls, and answers questions about it with the exact screenshot or the moment in the recording. Everpaper is in private beta for macOS 15 or later on Apple silicon Macs. Recordings and screenshots never leave the Mac. Text reaches an AI provider only if you connect one that runs off this Mac.
+
+Updated 21 October 2026. The full product facts are in https://everpaper.app/llms-full.txt.
+
+## Start here
+
+- [What is Everpaper](https://everpaper.app/what-is-everpaper/): the canonical facts page, with requirements, features, privacy defaults and what is not supported.
+- [Apply for the private beta](https://everpaper.app/beta/): how to join.
+- [Docs](https://everpaper.app/docs/): how every feature works.
+- [Privacy](https://everpaper.app/docs/privacy/): what stays on the Mac, what goes online, and the defaults.
+- [Release notes](https://everpaper.app/docs/release-notes/): every build.
+- [How we write comparisons](https://everpaper.app/methodology/): how facts are checked and dated.
+
+## Comparisons
+
+- [Best AI meeting assistants in 2026](https://everpaper.app/blog/best-ai-meeting-assistants-2026/): Meeting assistants compared for 2026: Everpaper, Granola, Otter, Fireflies and Screenpipe, by bot or no bot, where audio goes, languages and price.
+- [Best AI memory apps for Mac in 2026](https://everpaper.app/blog/best-ai-memory-apps-2026/): AI memory and second-brain apps for Mac compared in 2026: Everpaper, Screenpipe, Granola, Mem, Capacities, Notion and Obsidian, by what they capture and where data goes.
+- [Best dictation apps for Mac in 2026](https://everpaper.app/blog/best-dictation-apps-mac-2026/): Mac dictation apps compared for 2026: Wispr Flow, superwhisper, macOS Dictation and Everpaper Dictate, with free limits, prices, languages and offline support.
+- [Best Mac launchers with clipboard history](https://everpaper.app/blog/best-mac-launchers-with-clipboard-history/): Mac launchers compared for 2026: Spotlight, Raycast, Alfred and Everpaper, with clipboard history limits, prices, shortcuts and what each one keeps on your Mac.
+- [Best Obsidian alternatives in 2026](https://everpaper.app/blog/obsidian-alternatives/): Eight Obsidian alternatives for 2026: Logseq, Anytype, Notion, Capacities, Bear, Heptabase, Joplin and Everpaper, with prices, platforms and who each one suits.
+- [Day One alternatives and AI journaling apps](https://everpaper.app/blog/day-one-alternatives/): Journaling apps compared for 2026: Day One, Obsidian, Bear, Capacities and Everpaper, which writes your workday for you. Prices, platforms, encryption and AI.
+- [Fireflies.ai alternatives in 2026](https://everpaper.app/blog/fireflies-alternatives/): Fireflies.ai alternatives compared for 2026: Granola, Otter, Everpaper and Screenpipe, covering the meeting bot, voice data, languages, training policy and platforms.
+- [Granola alternatives for Mac in 2026](https://everpaper.app/blog/granola-alternatives/): Granola alternatives compared for 2026: Everpaper, Otter, Fireflies, Notion AI Meeting Notes and Screenpipe, by bot, data path, price and the limits of each.
+- [Limitless and Rewind alternatives for Mac](https://everpaper.app/blog/limitless-and-rewind-alternatives/): Rewind and Limitless stopped recording after Meta bought the company. What happened, what the shutdown means for your data, and the Mac alternatives that still work.
+- [Mem alternatives in 2026](https://everpaper.app/blog/mem-alternatives/): Mem alternatives for 2026: Capacities, Notion, Obsidian and Everpaper compared on price, where notes are stored, encryption and how much AI you get for the money.
+- [Microsoft Recall for Mac: is there an equivalent?](https://everpaper.app/blog/microsoft-recall-for-mac/): Windows Recall has no Mac version. How Recall works, what it needs, and the Mac options that do the same job: Everpaper and Screenpipe compared on privacy and controls.
+- [Obsidian canvas alternatives in 2026](https://everpaper.app/blog/obsidian-canvas-alternatives/): Obsidian canvas alternatives for 2026: Heptabase, Excalidraw, tldraw, Kinopio and Miro compared on price, open source, offline use, and how they link to your notes.
+- [Obsidian Sync alternatives in 2026](https://everpaper.app/blog/obsidian-sync-alternatives/): Ways to sync an Obsidian vault without Obsidian Sync in 2026: iCloud, OneDrive, Google Drive, Syncthing and git, with the limits Obsidian's own help pages warn about.
+- [Otter.ai alternatives for Mac in 2026](https://everpaper.app/blog/best-otter-alternatives-2026/): Otter.ai alternatives compared for 2026: Granola, Everpaper, Fireflies and Screenpipe, covering the bot, the 300-minute free plan, languages, training clauses and price.
+- [Rewind and Limitless vs Everpaper](https://everpaper.app/blog/rewind-and-limitless-vs-everpaper/): Rewind and Limitless no longer capture your screen. How moving to Everpaper compares on capture, where data lives, platforms, price and what you give up.
+- [Screenpipe alternatives in 2026](https://everpaper.app/blog/screenpipe-alternatives/): Screenpipe alternatives for 2026: Everpaper, Granola and Windows Recall compared on platforms, price, data location and how much setup each one needs.
+
+## Privacy
+
+- [What leaves your Mac: private AI apps compared](https://everpaper.app/blog/what-leaves-your-mac/): The default data path of Everpaper, Obsidian, Screenpipe, Granola, Otter, Fireflies, Mem and Day One: what stays local, what goes to a cloud, what trains models.
+- [Who hears your meetings? AI notetaker privacy](https://everpaper.app/blog/ai-meeting-notetaker-privacy-guide/): Where meeting audio goes with Otter, Fireflies, Granola and on-device recorders: bots, cloud transcription, training clauses, voice data and what stays local.
+
+## Engineering
+
+- [Transcribe meetings in 25 European languages](https://everpaper.app/blog/transcribe-meetings-in-25-languages/): How Everpaper transcribes meetings in 25 European languages on your Mac with NVIDIA Parakeet, what the model card says about accuracy, and how other tools compare.
+
+## Product
+
+- [Everpaper b101: launcher, Dictate and clipboard history](https://everpaper.app/blog/everpaper-b101-launcher-dictate-clipboard/): What is new in Everpaper 2.0.0-b101: the Option-Space launcher with clipboard history, Dictate on fn for Italian and English, journal dates and a fact check.
+
+## Optional
+
+- [Blog index](https://everpaper.app/blog/)
+- [RSS feed](https://everpaper.app/blog/rss.xml)

@@ -1,0 +1,186 @@
+# Everpaper: full facts for assistants
+
+Everpaper is a private memory of your workdays and meetings that runs on your Mac. It keeps a searchable history of what was on your screen and what was said in your calls, and answers questions about it with the exact screenshot or the moment in the recording.
+
+Generated 21 October 2026. Current beta build: 2.0.0-b101. Canonical page: https://everpaper.app/what-is-everpaper/
+
+## Product facts
+
+- What it is: A local-first memory app for macOS. Capture, transcription, search and your journal live on the Mac.
+- Status: Private beta (current build 2.0.0-b101). Apply at https://everpaper.app/beta/. There is no public price yet.
+- Requirements: macOS 15 or later on an Apple silicon Mac. No Intel, Windows, iOS or web version.
+- Day journal: Screen history takes a screenshot of each display every 2 minutes by default and reads it on the Mac. Detailed screen history adds extra window images after meaningful changes (at most one every 30 seconds). Activity only keeps a timeline of apps and windows with no screenshots. Screenshots are deleted after 30 days by default.
+- Meetings: Press Shift-Command-M to record the microphone and the call's system audio as separate tracks. Transcription and speaker labels run on the Mac, no bot joins the call, and recordings are never uploaded.
+- Speech model: Meetings use NVIDIA's Parakeet speech model by default, which transcribes 25 European languages with automatic language detection. Settings, Speech can switch the speech engine to Whisper Large v3 Turbo, which the app describes as 99 languages with automatic detection.
+- Dictate: Hold fn, speak, let go, and the words land at the cursor. It works in Italian and English, a sentence that mixes both stays as spoken, and it runs on the Mac with the speech model Everpaper already has. It is off until you turn it on.
+- Launcher: Option-Space opens a launcher that finds apps, Settings panes, commands, files and their contents, images, a calculation, and everything Everpaper remembers, with a web search when nothing matches.
+- Clipboard history: Part of the launcher. On by default, keeps copies for 7 days on the Mac, skips passwords that apps mark as secret, private windows it can detect, and the apps and sites you skip. It can be turned off.
+- Memory (Second Brain): Builds a graph of people, files, sites and topics from your captured days and meetings, each tied to the moment it came from. Ask answers questions across all of it with sources.
+- Search: Search by meaning runs on the Mac with the EmbeddingGemma-2 model and sends nothing off the Mac.
+- AI: Optional. Everpaper never contacts an AI provider unless you set one up. On-device providers (Everpaper Native on macOS 27, oMLX, LM Studio, Ollama) keep text on the Mac. Cloud providers (Anthropic, OpenAI, Google Gemini, OpenRouter) receive text only after you turn on "Allow cloud AI to analyze your journal", which is off by default. Secrets such as keys and card numbers are scrubbed before any call.
+- What goes online: Model downloads, update checks, and optional connections you set up: an AI provider that runs off this Mac, an external embeddings provider, and external agents through MCP. There is no analytics or telemetry. Recordings, screenshots and your calendar are never uploaded.
+- Export: Markdown, an Obsidian vault, GraphML and Mermaid for the graph, and meeting transcripts as text, Markdown, SRT, WebVTT or JSON.
+- Who makes it: Marco Iannello, founder. Contact marco@everpaper.app.
+
+## What Everpaper is not
+
+- Not available for Windows, Linux, Intel Macs, iPhone, Android or the web.
+- Not a meeting bot: nothing joins your call.
+- Not publicly priced yet: it is in private beta and there is no public price.
+- Not an AI service: the AI part is optional and uses a provider you choose.
+
+## Where to read more
+
+- Docs: https://everpaper.app/docs/
+- Privacy: https://everpaper.app/docs/privacy/
+- Meetings: https://everpaper.app/docs/meetings/
+- Memory (Second Brain): https://everpaper.app/docs/second-brain/
+- Release notes: https://everpaper.app/docs/release-notes/
+- Private beta: https://everpaper.app/beta/
+
+## Who makes it
+
+Marco Iannello, founder. Contact: marco@everpaper.app. X: https://x.com/geteverpaper
+
+## Articles
+
+Each article opens with a short answer. Competitor facts are dated and linked to their source at the foot of the article.
+
+### Best AI meeting assistants in 2026
+- URL: https://everpaper.app/blog/best-ai-meeting-assistants-2026/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Granola is the best bot-free option if cloud processing is fine, Otter and Fireflies are the bot-based tools for teams, Screenpipe is the cross-platform local recorder, and Everpaper is the pick when the audio and transcript must stay on a Mac. The main difference between them is whether a bot joins the call and where the audio is processed.
+
+### Best AI memory apps for Mac in 2026
+- URL: https://everpaper.app/blog/best-ai-memory-apps-2026/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Pick by what you want remembered. Everpaper and Screenpipe capture your screen and meetings automatically. Granola remembers meetings only. Mem, Capacities, Notion and Obsidian remember what you write or save. Rewind and Limitless no longer record, and Windows Recall does not run on a Mac.
+
+### Best dictation apps for Mac in 2026
+- URL: https://everpaper.app/blog/best-dictation-apps-mac-2026/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Wispr Flow and superwhisper both list 100+ languages and run on Mac, Windows, iOS and Android. superwhisper works offline and its free plan has unlimited Whisper models, while Wispr Flow's free plan is capped at 2,000 words a week on desktop. macOS Dictation is built in. Everpaper Dictate covers Italian and English on the Mac and is in private beta.
+
+### Best Mac launchers with clipboard history
+- URL: https://everpaper.app/blog/best-mac-launchers-with-clipboard-history/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Spotlight on macOS Tahoe has clipboard history built in. Raycast's free plan keeps 3 months of clipboard history and its paid plans keep it unlimited. Alfred lists clipboard history among its Powerpack features. Everpaper's launcher on Option-Space includes clipboard history that keeps copies for 7 days, plus search over what Everpaper remembers.
+
+### Best Obsidian alternatives in 2026
+- URL: https://everpaper.app/blog/obsidian-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: The closest Obsidian alternative is Logseq if you want open-source local files, Anytype if you want local-first with built-in sync, and Capacities or Notion if you want a polished all-in-one workspace. Bear is the lightest Markdown option on Apple devices. Everpaper sits beside Obsidian: it captures your workday automatically and can export it as an Obsidian vault.
+
+### Day One alternatives and AI journaling apps
+- URL: https://everpaper.app/blog/day-one-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Day One is the polished journal if you want to write entries, with end-to-end encryption on every plan and AI on its top tier. Obsidian, Bear and Capacities are cheaper places to write. Everpaper is different: on a Mac it writes a narrative of your workday from your screen history, so you review instead of writing.
+
+### Everpaper b101: launcher, Dictate and clipboard history
+- URL: https://everpaper.app/blog/everpaper-b101-launcher-dictate-clipboard/
+- Category: Product
+- Updated: 2026-10-21
+- Answer: Everpaper 2.0.0-b101 adds a launcher on Option-Space that finds apps, files, commands and everything Everpaper remembers, clipboard history that is on by default for 7 days, Dictate on the fn key for Italian and English, and a journal that checks its own dates and names. It is a private beta build for macOS 15 or later on Apple silicon.
+
+### Fireflies.ai alternatives in 2026
+- URL: https://everpaper.app/blog/fireflies-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: If the Fireflies bot or its voice data handling is the problem, Granola and Everpaper record without a bot. Granola uses cloud providers, Everpaper transcribes on your Mac, and Otter is the closest bot-based alternative. Stay with Fireflies if you want a bot, a long language list and team features.
+
+### Granola alternatives for Mac in 2026
+- URL: https://everpaper.app/blog/granola-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Granola is a bot-free meeting notepad that uses cloud providers for transcription and notes. The closest alternative that also has no bot is Everpaper, which transcribes on your Mac. Otter and Fireflies are bot-based tools with team features, and Screenpipe is a local recorder for developers. Stay with Granola if cloud processing is fine and you want its notes.
+
+### Limitless and Rewind alternatives for Mac
+- URL: https://everpaper.app/blog/limitless-and-rewind-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Meta acquired Limitless, the company that was Rewind, in December 2025. The Rewind Mac app stopped all screen and audio capture on 19 December 2025, and Pendant support is promised only through 2026. The Mac alternatives that still record are Everpaper (macOS 15+, Apple silicon, private beta) and Screenpipe (macOS, Windows, Linux). Granola covers meetings only.
+
+### Mem alternatives in 2026
+- URL: https://everpaper.app/blog/mem-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Mem's plans now run from a free tier through Plus at $9 and Pro at $29 a month, and its notes are encrypted at rest but not end-to-end. If you want your notes on your own disk, Obsidian is free. If you want structure with a cloud, Capacities or Notion. If you want something that fills itself, Everpaper captures your day on a Mac.
+
+### Microsoft Recall for Mac: is there an equivalent?
+- URL: https://everpaper.app/blog/microsoft-recall-for-mac/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: No, Microsoft Recall does not run on a Mac. It is a Windows 11 feature for Copilot+ PCs that is off until you opt in and stores encrypted snapshots on the local drive. On a Mac the equivalents are Everpaper (macOS 15+, Apple silicon, private beta) and Screenpipe (macOS, Windows, Linux).
+
+### Obsidian canvas alternatives in 2026
+- URL: https://everpaper.app/blog/obsidian-canvas-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Obsidian's canvas is a core plugin that saves to the open JSON Canvas format. The best alternative for research is Heptabase, for sketches Excalidraw (MIT, open source), for a hosted infinite canvas Miro, and for a lightweight card board Kinopio. Everpaper is not a canvas, but it can export your captured days as a vault and your knowledge graph as GraphML.
+
+### Obsidian Sync alternatives in 2026
+- URL: https://everpaper.app/blog/obsidian-sync-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Obsidian Sync costs $4 a month billed annually and covers 1 vault with a 5 MB file limit and 1 GB of storage on the Standard plan. The free alternatives are iCloud Drive, Syncthing and git, plus OneDrive and Google Drive on desktop. Each has limits Obsidian's help pages list, and none should be combined with another sync service on the same vault.
+
+### Otter.ai alternatives for Mac in 2026
+- URL: https://everpaper.app/blog/best-otter-alternatives-2026/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: People leave Otter over four things: the bot that joins the call, the 300-minute free plan, cloud processing, and its privacy lawsuit. Granola is the bot-free cloud option, Everpaper is the on-device option for Apple silicon Macs, Fireflies is the closest bot-based match, and Screenpipe is the local recorder for developers.
+
+### Rewind and Limitless vs Everpaper
+- URL: https://everpaper.app/blog/rewind-and-limitless-vs-everpaper/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Rewind and Limitless no longer record your Mac, so this is a replacement decision, not a feature comparison. Everpaper takes over the screen-history job on Apple silicon Macs with macOS 15 or later and keeps it on the Mac. You give up the Pendant, Windows, and your old history, and you join a private beta with no public price.
+
+### Screenpipe alternatives in 2026
+- URL: https://everpaper.app/blog/screenpipe-alternatives/
+- Category: Comparisons
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Screenpipe records your screen, audio and meetings on macOS, Windows and Linux, free on one device, with Basic at $21 a month. If you want something with no setup on an Apple silicon Mac, Everpaper is the alternative. Granola covers meetings only, and Windows Recall covers Copilot+ PCs. Stay with Screenpipe if you need Windows or Linux or want to build on the data.
+
+### Transcribe meetings in 25 European languages
+- URL: https://everpaper.app/blog/transcribe-meetings-in-25-languages/
+- Category: Engineering
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Everpaper transcribes meetings on your Mac with NVIDIA's Parakeet TDT 0.6B v3, which covers 25 European languages and detects the language automatically. Nothing is uploaded and no bot joins the call. NVIDIA's model card reports an average word error rate of about 8 to 12 percent across its multilingual benchmarks, so results vary by language and audio.
+
+### What leaves your Mac: private AI apps compared
+- URL: https://everpaper.app/blog/what-leaves-your-mac/
+- Category: Privacy
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: Apps differ on five layers: capture, transcription, search, AI and sync. Everpaper, Obsidian, Anytype and Screenpipe keep the core record on your device by default. Granola, Otter, Fireflies, Mem and Notion process in a cloud. Day One keeps entries end-to-end encrypted on every plan. What Everpaper itself sends is limited to model downloads, update checks and the AI providers, embeddings providers and agents you connect.
+
+### Who hears your meetings? AI notetaker privacy
+- URL: https://everpaper.app/blog/ai-meeting-notetaker-privacy-guide/
+- Category: Privacy
+- Updated: 2026-10-21
+- Competitor facts checked: October 2026
+- Answer: It depends on the design. A bot that joins the call (Otter, Fireflies) sends audio to the vendor's cloud. A bot-free desktop app (Granola) captures on your device but uses cloud providers for transcription and notes. A fully on-device recorder (Everpaper) keeps audio, transcript and summary on the Mac unless you choose a cloud AI.
