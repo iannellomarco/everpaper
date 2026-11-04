@@ -5,8 +5,16 @@
     <link>https://everpaper.app/blog/</link>
     <description>Comparisons, privacy notes and engineering write-ups from the team building Everpaper, a private memory for your Mac.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://everpaper.app/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work journal apps for Mac in 2026</title>
+      <link>https://everpaper.app/blog/work-journal-apps-mac/</link>
+      <guid isPermaLink="true">https://everpaper.app/blog/work-journal-apps-mac/</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Comparisons</category>
+      <description>Dayflow is a free, MIT-licensed Mac app that turns screen activity into a timeline you can ask questions about, and it runs on macOS 14 or later. Everpaper also writes the day from your screen history and adds meeting recording and transcription on the Mac, but it needs macOS 15 on Apple silicon and is in private beta. Pick Dayflow if you want it free today, Everpaper if meetings are part of the day you want recorded.</description>
+    </item>
     <item>
       <title>Best AI meeting assistants in 2026</title>
       <link>https://everpaper.app/blog/best-ai-meeting-assistants-2026/</link>

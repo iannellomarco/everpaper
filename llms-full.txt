@@ -2,12 +2,12 @@
 
 Everpaper is a private memory of your workdays and meetings that runs on your Mac. It keeps a searchable history of what was on your screen and what was said in your calls, and answers questions about it with the exact screenshot or the moment in the recording.
 
-Generated 21 October 2026. Current beta build: 2.0.0-b101. Canonical page: https://everpaper.app/what-is-everpaper/
+Generated 4 November 2026. Current beta build: 2.0.0-b105. Canonical page: https://everpaper.app/what-is-everpaper/
 
 ## Product facts
 
 - What it is: A local-first memory app for macOS. Capture, transcription, search and your journal live on the Mac.
-- Status: Private beta (current build 2.0.0-b101). Apply at https://everpaper.app/beta/. There is no public price yet.
+- Status: Private beta (current build 2.0.0-b105). Apply at https://everpaper.app/beta/. There is no public price yet.
 - Requirements: macOS 15 or later on an Apple silicon Mac. No Intel, Windows, iOS or web version.
 - Day journal: Screen history takes a screenshot of each display every 2 minutes by default and reads it on the Mac. Detailed screen history adds extra window images after meaningful changes (at most one every 30 seconds). Activity only keeps a timeline of apps and windows with no screenshots. Screenshots are deleted after 30 days by default.
 - Meetings: Press Shift-Command-M to record the microphone and the call's system audio as separate tracks. Transcription and speaker labels run on the Mac, no bot joins the call, and recordings are never uploaded.
@@ -45,6 +45,13 @@ Marco Iannello, founder. Contact: marco@everpaper.app. X: https://x.com/geteverp
 ## Articles
 
 Each article opens with a short answer. Competitor facts are dated and linked to their source at the foot of the article.
+
+### Work journal apps for Mac in 2026
+- URL: https://everpaper.app/blog/work-journal-apps-mac/
+- Category: Comparisons
+- Updated: 2026-11-04
+- Competitor facts checked: November 2026
+- Answer: Dayflow is a free, MIT-licensed Mac app that turns screen activity into a timeline you can ask questions about, and it runs on macOS 14 or later. Everpaper also writes the day from your screen history and adds meeting recording and transcription on the Mac, but it needs macOS 15 on Apple silicon and is in private beta. Pick Dayflow if you want it free today, Everpaper if meetings are part of the day you want recorded.
 
 ### Best AI meeting assistants in 2026
 - URL: https://everpaper.app/blog/best-ai-meeting-assistants-2026/
