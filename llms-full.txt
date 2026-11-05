@@ -18,7 +18,7 @@ Generated 5 November 2026. Current beta build: 2.0.0-b105. Canonical page: https
 - Memory (Second Brain): Builds a graph of people, files, sites and topics from your captured days and meetings, each tied to the moment it came from. Ask answers questions across all of it with sources.
 - Search: Search by meaning runs on the Mac with the EmbeddingGemma-2 model and sends nothing off the Mac.
 - AI: Optional. Everpaper never contacts an AI provider unless you set one up. On-device providers (Everpaper Native on macOS 27, oMLX, LM Studio, Ollama) keep text on the Mac. Cloud providers (Anthropic, OpenAI, Google Gemini, OpenRouter) receive text only after you turn on "Allow cloud AI to analyze your journal", which is off by default. Secrets such as keys and card numbers are scrubbed before any call.
-- What goes online: Model downloads, update checks, and optional connections you set up: an AI provider that runs off this Mac, an external embeddings provider, and external agents through MCP. There is no analytics or telemetry. Recordings, screenshots and your calendar are never uploaded.
+- What goes online: Model downloads, update checks, and optional connections you set up: an AI provider that runs off this Mac, an external embeddings provider, and external agents through MCP. It also sends a few usage counts once a day (app and macOS versions, memory size, questions asked, meetings kept, a random number for the Mac), on by default and switchable off in Settings, never what you asked, recorded or saw. Recordings, screenshots and your calendar are never uploaded.
 - Export: Markdown, an Obsidian vault, GraphML and Mermaid for the graph, and meeting transcripts as text, Markdown, SRT, WebVTT or JSON.
 - Who makes it: Marco Iannello, founder. Contact marco@everpaper.app.
 
@@ -45,6 +45,13 @@ Marco Iannello, founder. Contact: marco@everpaper.app. X: https://x.com/geteverp
 ## Articles
 
 Each article opens with a short answer. Competitor facts are dated and linked to their source at the foot of the article.
+
+### What leaves your Mac: private AI apps compared
+- URL: https://everpaper.app/blog/what-leaves-your-mac/
+- Category: Privacy
+- Updated: 2026-11-05
+- Competitor facts checked: October 2026
+- Answer: Apps differ on five layers: capture, transcription, search, AI and sync. Everpaper, Obsidian, Anytype and Screenpipe keep the core record on your device by default. Granola, Otter, Fireflies, Mem and Notion process in a cloud. Day One keeps entries end-to-end encrypted on every plan. What Everpaper itself sends is limited to model downloads, update checks, a few daily usage counts that you can turn off, and the AI providers, embeddings providers and agents you connect.
 
 ### Granola alternative that stays on your Mac: Granola vs Everpaper 2026
 - URL: https://everpaper.app/blog/granola-vs-everpaper/
@@ -184,13 +191,6 @@ Each article opens with a short answer. Competitor facts are dated and linked to
 - Updated: 2026-10-21
 - Competitor facts checked: October 2026
 - Answer: Everpaper transcribes meetings on your Mac with NVIDIA's Parakeet TDT 0.6B v3, which covers 25 European languages and detects the language automatically. Nothing is uploaded and no bot joins the call. NVIDIA's model card reports an average word error rate of about 8 to 12 percent across its multilingual benchmarks, so results vary by language and audio.
-
-### What leaves your Mac: private AI apps compared
-- URL: https://everpaper.app/blog/what-leaves-your-mac/
-- Category: Privacy
-- Updated: 2026-10-21
-- Competitor facts checked: October 2026
-- Answer: Apps differ on five layers: capture, transcription, search, AI and sync. Everpaper, Obsidian, Anytype and Screenpipe keep the core record on your device by default. Granola, Otter, Fireflies, Mem and Notion process in a cloud. Day One keeps entries end-to-end encrypted on every plan. What Everpaper itself sends is limited to model downloads, update checks and the AI providers, embeddings providers and agents you connect.
 
 ### Who hears your meetings? AI notetaker privacy
 - URL: https://everpaper.app/blog/ai-meeting-notetaker-privacy-guide/

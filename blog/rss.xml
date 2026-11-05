@@ -5,8 +5,16 @@
     <link>https://everpaper.app/blog/</link>
     <description>Comparisons, privacy notes and engineering write-ups from the team building Everpaper, a private memory for your Mac.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://everpaper.app/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What leaves your Mac: private AI apps compared</title>
+      <link>https://everpaper.app/blog/what-leaves-your-mac/</link>
+      <guid isPermaLink="true">https://everpaper.app/blog/what-leaves-your-mac/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <category>Privacy</category>
+      <description>Apps differ on five layers: capture, transcription, search, AI and sync. Everpaper, Obsidian, Anytype and Screenpipe keep the core record on your device by default. Granola, Otter, Fireflies, Mem and Notion process in a cloud. Day One keeps entries end-to-end encrypted on every plan. What Everpaper itself sends is limited to model downloads, update checks, a few daily usage counts that you can turn off, and the AI providers, embeddings providers and agents you connect.</description>
+    </item>
     <item>
       <title>Granola alternative that stays on your Mac: Granola vs Everpaper 2026</title>
       <link>https://everpaper.app/blog/granola-vs-everpaper/</link>
@@ -166,14 +174,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <category>Engineering</category>
       <description>Everpaper transcribes meetings on your Mac with NVIDIA's Parakeet TDT 0.6B v3, which covers 25 European languages and detects the language automatically. Nothing is uploaded and no bot joins the call. NVIDIA's model card reports an average word error rate of about 8 to 12 percent across its multilingual benchmarks, so results vary by language and audio.</description>
-    </item>
-    <item>
-      <title>What leaves your Mac: private AI apps compared</title>
-      <link>https://everpaper.app/blog/what-leaves-your-mac/</link>
-      <guid isPermaLink="true">https://everpaper.app/blog/what-leaves-your-mac/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Privacy</category>
-      <description>Apps differ on five layers: capture, transcription, search, AI and sync. Everpaper, Obsidian, Anytype and Screenpipe keep the core record on your device by default. Granola, Otter, Fireflies, Mem and Notion process in a cloud. Day One keeps entries end-to-end encrypted on every plan. What Everpaper itself sends is limited to model downloads, update checks and the AI providers, embeddings providers and agents you connect.</description>
     </item>
     <item>
       <title>Who hears your meetings? AI notetaker privacy</title>
