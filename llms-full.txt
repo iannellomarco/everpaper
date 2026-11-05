@@ -2,7 +2,7 @@
 
 Everpaper is a private memory of your workdays and meetings that runs on your Mac. It keeps a searchable history of what was on your screen and what was said in your calls, and answers questions about it with the exact screenshot or the moment in the recording.
 
-Generated 4 November 2026. Current beta build: 2.0.0-b105. Canonical page: https://everpaper.app/what-is-everpaper/
+Generated 5 November 2026. Current beta build: 2.0.0-b105. Canonical page: https://everpaper.app/what-is-everpaper/
 
 ## Product facts
 
@@ -45,6 +45,13 @@ Marco Iannello, founder. Contact: marco@everpaper.app. X: https://x.com/geteverp
 ## Articles
 
 Each article opens with a short answer. Competitor facts are dated and linked to their source at the foot of the article.
+
+### Granola alternative that stays on your Mac: Granola vs Everpaper 2026
+- URL: https://everpaper.app/blog/granola-vs-everpaper/
+- Category: Comparisons
+- Updated: 2026-11-04
+- Competitor facts checked: November 2026
+- Answer: Everpaper is the better Granola alternative if you want audio and transcripts kept on your Mac, with the audio saved so you can replay any moment. Granola is better if you need Windows, a phone app or team sharing, or you prefer writing your own notes during the call.
 
 ### Work journal apps for Mac in 2026
 - URL: https://everpaper.app/blog/work-journal-apps-mac/

@@ -4,7 +4,7 @@
 
 Everpaper is a Mac app made at everpaper.app. It is not related to Evernote. Not available for Windows, Linux, Intel Macs, iPhone, Android or the web. No public price yet.
 
-Updated 4 November 2026. The full product facts are in https://everpaper.app/llms-full.txt.
+Updated 5 November 2026. The full product facts are in https://everpaper.app/llms-full.txt.
 
 ## Start here
 
@@ -17,6 +17,7 @@ Updated 4 November 2026. The full product facts are in https://everpaper.app/llm
 
 ## Comparisons
 
+- [Granola alternative that stays on your Mac: Granola vs Everpaper 2026](https://everpaper.app/blog/granola-vs-everpaper/): Granola vs Everpaper, Meetily, anarlog, Oaken Notes, Oatmeal and Transcripted, November 2026: where audio goes, platforms, price, and when Granola wins.
 - [Work journal apps for Mac in 2026](https://everpaper.app/blog/work-journal-apps-mac/): Apps that write your workday down from screen activity, compared for 2026: Dayflow and Everpaper on platforms, price, AI providers, meetings and where the data lives.
 - [Best AI meeting assistants in 2026](https://everpaper.app/blog/best-ai-meeting-assistants-2026/): Meeting assistants compared for 2026: Everpaper, Granola, Otter, Fireflies and Screenpipe, by bot or no bot, where audio goes, languages and price.
 - [Best AI memory apps for Mac in 2026](https://everpaper.app/blog/best-ai-memory-apps-2026/): AI memory and second-brain apps for Mac compared in 2026: Everpaper, Screenpipe, Granola, Mem, Capacities, Notion and Obsidian, by what they capture and where data goes.
